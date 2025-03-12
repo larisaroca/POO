@@ -1,0 +1,3 @@
+﻿  clase.cpp
+C:\Users\Larisa\OneDrive\Desktop\clase\clase\clase.cpp(45,9): warning C4101: 'i': unreferenced local variable
+  clase.vcxproj -> C:\Users\Larisa\OneDrive\Desktop\clase\x64\Debug\clase.exe
