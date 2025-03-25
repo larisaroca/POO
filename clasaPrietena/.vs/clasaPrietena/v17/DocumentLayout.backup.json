@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Larisa\\OneDrive\\Desktop\\POO\\clasaPrietena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C647E9C1-B481-47C7-AA4A-C01FFC8A6529}|clasaPrietena\\clasaPrietena.vcxproj|C:\\Users\\Larisa\\OneDrive\\Desktop\\POO\\clasaPrietena\\clasaPrietena\\clasaPrietena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C647E9C1-B481-47C7-AA4A-C01FFC8A6529}|clasaPrietena\\clasaPrietena.vcxproj|solutionrelative:clasaPrietena\\clasaPrietena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clasaPrietena.cpp",
+              "DocumentMoniker": "C:\\Users\\Larisa\\OneDrive\\Desktop\\POO\\clasaPrietena\\clasaPrietena\\clasaPrietena.cpp",
+              "RelativeDocumentMoniker": "clasaPrietena\\clasaPrietena.cpp",
+              "ToolTip": "C:\\Users\\Larisa\\OneDrive\\Desktop\\POO\\clasaPrietena\\clasaPrietena\\clasaPrietena.cpp*",
+              "RelativeToolTip": "clasaPrietena\\clasaPrietena.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T14:25:36.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
